@@ -1,0 +1,151 @@
+{
+  "repo": "hermes-manager",
+  "source": "sanitized export from local limitless-ai-team-os",
+  "exported_at_utc": "2026-05-16T10:30:40Z",
+  "security": "Secrets/tokens/runtime state/logs/daily notes/memory stores are intentionally excluded or redacted.",
+  "agents": [
+    {
+      "agent": "Hermes",
+      "profile": "default",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "workspace/Protocols/simple-automation-plan.md",
+        "workspace/Protocols/_template.md",
+        "workspace/Protocols/daily-protocol.md",
+        "workspace/Protocols/memory-workflow.md",
+        "workspace/Protocols/README.md",
+        "workspace/Protocols/scratchpad-promotion.md",
+        "workspace/Protocols/airtable-revenue-report.md",
+        "workspace/Templates/daily-revenue-report-template.md",
+        "configs/root/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Kaijeaw",
+      "profile": "kaijeaw",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "configs/profiles/kaijeaw/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Bookthai",
+      "profile": "bookthai",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "configs/profiles/bookthai/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "OData",
+      "profile": "odata",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "workspace/Protocols/memory-workflow.md",
+        "configs/profiles/odata/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Blaze",
+      "profile": "blaze",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "workspace/Protocols/memory-workflow.md",
+        "configs/profiles/blaze/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Blaze2",
+      "profile": "blaze2",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "workspace/Protocols/memory-workflow.md",
+        "configs/profiles/blaze2/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Bolt",
+      "profile": "bolt",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "configs/profiles/bolt/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Bolt2",
+      "profile": "bolt2",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "configs/profiles/bolt2/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Protocol",
+      "profile": "protocol",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "workspace/Protocols/beehiiv-language-split-population-2026-04-29.json",
+        "workspace/Protocols/notion-youtube-draft-fill-2026-04-29.json",
+        "workspace/Protocols/beehiiv-issue001-thumbnail-insertion-2026-04-30.json",
+        "workspace/Protocols/beehiiv-the-protocol-publication-record.json",
+        "workspace/Protocols/notion-drafts-database-record.json",
+        "workspace/Protocols/beehiiv-backlog-10-draft-create-2026-04-29.json",
+        "workspace/Protocols/newsletter-workflow.md",
+        "workspace/Protocols/notion-english-drafts-database-record.json",
+        "workspace/Protocols/notion-youtube-backlog-10-fill-2026-04-29.json",
+        "workspace/Protocols/beehiiv-integration.md",
+        "workspace/Protocols/beehiiv-backlog-10-english-replacement-2026-04-29.json",
+        "workspace/Templates/newsletter-issue-template.md",
+        "configs/profiles/protocol/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Qwen",
+      "profile": "qwen",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "workspace/Protocols/local-worker-routing.md",
+        "workspace/Protocols/todoist-workflow.md",
+        "configs/profiles/qwen/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Signal",
+      "profile": "signal",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "workspace/Protocols/memory-workflow.md",
+        "configs/profiles/signal/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Zegna",
+      "profile": "zegna",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "configs/profiles/zegna/config.example.yaml"
+      ]
+    },
+    {
+      "agent": "Zegna2",
+      "profile": "zegna2",
+      "exported_items": [
+        "SOUL.md",
+        "workspace/README.md",
+        "configs/profiles/zegna2/config.example.yaml"
+      ]
+    }
+  ]
+}
