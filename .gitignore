@@ -1,0 +1,25 @@
+# Secrets and local runtime state
+.env
+*.env
+.env.*
+*.pem
+*.key
+*.token
+*.secret
+secrets/
+auth.json
+.git-credentials
+
+# Hermes/local runtime data
+.hermes/
+profiles/
+sessions/
+logs/
+image_cache/
+audio_cache/
+cron/output/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
